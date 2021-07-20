@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/mit)
   
 ## Description
-to be abble to budget on and offline
+to be able to budget on and offline
   
 ## Table of Contents
 - [Installation](#installation)
